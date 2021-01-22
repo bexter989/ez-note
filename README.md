@@ -1,2 +1,2 @@
 # ez-note
-simple notes app in php
+simple notes app
